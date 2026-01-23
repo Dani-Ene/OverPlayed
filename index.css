@@ -361,13 +361,13 @@ input:nth-of-type(5):checked~main#carousel {
 .green-nav .nav-link:hover::before,
 .green-nav .nav-link:hover::after {
     width: 100%;
-
 }
 
 /* Activo (Ofertas) */
 .green-nav .nav-link.active::before,
 .green-nav .nav-link.active::after {
     width: 100%;
+    color: white;
 }
 
 #color-barra-segundaria{
